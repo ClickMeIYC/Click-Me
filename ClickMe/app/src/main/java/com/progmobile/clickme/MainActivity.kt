@@ -99,7 +99,7 @@ class MainActivity : ComponentActivity(), LifecycleObserver {
         }
     }
 
-    private fun showPermissionDeniedDialog() {8
+    private fun showPermissionDeniedDialog() {
         AlertDialog.Builder(this)
             .setTitle(R.string.permission_denied)
             .setMessage(R.string.permission_denied_msg)

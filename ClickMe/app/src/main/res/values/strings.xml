@@ -115,8 +115,6 @@
     <string name="warning_level_light_torch">Your device doesn\'t have the correct tool available. Here\'s a level for free :)</string>
 
     // Home page indications
-    <string name="home_page_explication_1" translatable="false">Welcome to Click Me ! In each level you have to find a button, progressively more hidden, using every possible function of your device.</string>
-    <string name="home_page_explication_2" translatable="false">In every level, you will have access to a \"?\" like this one, containing hints, generally three, progressively more helpful.</string>
     <string name="hint_place_ten_fingers_3">One finger after another, it\'s obvious</string>
     <string name="home_page_explication_1">Welcome to Click Me ! In each level you have to find a button, progressively more hidden, using every possible function of your device.</string>
     <string name="home_page_explication_2">In every level, you will have access to a \"?\" like this one, containing hints, generally three, progressively more helpful.</string>
