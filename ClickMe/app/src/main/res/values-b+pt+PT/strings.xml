@@ -84,7 +84,7 @@
     <string name="hint_shutdown_device_1">Tenta cortar o contacto</string>
     <string name="hint_shutdown_device_2">Tente cair em si para ver</string>
     <string name="hint_shutdown_device_3">Vais acabar por desligar o teu maldito telemóvel !</string>
-    <string name="hint_place_ten_fingers_1">Tente contar até dez</string>
+    <string name="hint_place_ten_fingers_1">Tente contar até cinco</string>
     <string name="hint_place_ten_fingers_2">Faz a criança em você</string>
     <string name="hint_wait_20_seconds_1">Estás impaciente</string>
     <string name="hint_wait_20_seconds_2">Try meditação</string>
@@ -104,4 +104,8 @@
     <string name="hint_step_counting_3">Basta mover sua bunda e obter algum exercício</string>
     <string name="hint_moving_button_2">Agir como um pai de 30 anos</string>
     <string name="hint_moving_button_3">Um bom nocaute, é isso que ele precisa</string>
+    <string name="hint_place_ten_fingers_3">Um dedo após o outro, isso é óbvio</string>
+    <string name="home_page_explication_1">Bem-vindo ao Click Me! Em cada nível deve encontrar um botão, cada vez mais escondido, utilizando todas as funções possíveis do seu dispositivo.</string>
+    <string name="home_page_explication_2">Em todos os níveis, terá acesso a um \"?\" como este, contendo dicas, geralmente três, progressivamente mais úteis.</string>
+    <string name="hint_charging_3">" ¿Me vas a cobrar o qué?"</string>
 </resources>

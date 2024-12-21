@@ -35,7 +35,7 @@ object DataSource {
 
     // Max number of levels to display
     const val LEVEL_NUMBERS = 21
-    const val STARTING_LEVEL = 20
+    const val STARTING_LEVEL = 0
     const val MUSIC_DEFAULT = true
     const val SOUND_DEFAULT = true
     const val HINT_TEXT_SIZE = 20f
@@ -200,7 +200,8 @@ object DataSource {
             R.string.hint_shutdown_device_3),
         Screens.Place10Finger.name to listOf(
             R.string.hint_place_ten_fingers_1,
-            R.string.hint_place_ten_fingers_2),
+            R.string.hint_place_ten_fingers_2,
+            R.string.hint_place_ten_fingers_3),
         Screens.Wait20s.name to listOf(
             R.string.hint_wait_20_seconds_1,
             R.string.hint_wait_20_seconds_2,

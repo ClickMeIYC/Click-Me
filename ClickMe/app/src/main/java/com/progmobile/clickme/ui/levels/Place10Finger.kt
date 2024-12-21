@@ -53,7 +53,7 @@ fun Place10Finger(
                         val touches = event.changes.filter { it.pressed }
 
                         fingerCount.intValue = touches.size
-                        if (fingerCount.intValue >= 10) {
+                        if (fingerCount.intValue >= 5) {
                             showButton.value = true
                         }
                     }

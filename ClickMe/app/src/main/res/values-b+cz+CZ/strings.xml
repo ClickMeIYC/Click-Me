@@ -84,7 +84,7 @@
      <string name="hint_shutdown_device_1">Pokuste se odříznout veškerý kontakt</string>
     <string name="hint_shutdown_device_2">Zkuste se rozpadnout, abyste viděli</string>
     <string name="hint_shutdown_device_3">Vypneš svůj zatracený telefon !</string>
-    <string name="hint_place_ten_fingers_1">Zkuste počítat do 10</string>
+    <string name="hint_place_ten_fingers_1">Zkuste počítat do 5</string>
     <string name="hint_place_ten_fingers_2">Vyvede dítě do vás</string>
     <string name="hint_wait_20_seconds_1">Jste opravdu netrpěliví, tak!</string>
     <string name="hint_wait_20_seconds_2">Zkuste meditaci</string>
@@ -103,4 +103,8 @@
     <string name="hint_step_counting_3">Stačí jen pohnout zadkem a dostat nějaké cvičení</string>
     <string name="hint_moving_button_2">Chovejte se jako otec 30.</string>
     <string name="hint_moving_button_3">Dobrý knock out, to je to, co potřebuje</string>
+    <string name="hint_place_ten_fingers_3">Jeden prst za druhým, to je zřejmé</string>
+    <string name="home_page_explication_1">Vítejte v Click Me! V každé úrovni musíte najít tlačítko, postupně skrytější, využívající všechny možné funkce vašeho zařízení.</string>
+    <string name="home_page_explication_2">V každé úrovni budete mít přístup k \"?\" jako tento, obsahující rady, obecně tři, postupně užitečnější.</string>
+    <string name="hint_charging_3">Budeš mě nabíjet nebo co?</string>
 </resources>
