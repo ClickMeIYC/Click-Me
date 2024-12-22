@@ -119,13 +119,13 @@ fun LevelButton(
                     }
                 )
             },
-        contentAlignment = Alignment.Center   // Center text in Box
+        contentAlignment = if(inLevelButton) Alignment.Center else Alignment.CenterStart   // Center text in Box
     ) {
         Text(
             text = prefix + stringResource(labelResourceId),
             fontSize = textFontSize.sp,
             color = Color.White,
-            textAlign = TextAlign.Center,
+            textAlign = if(inLevelButton) TextAlign.Center else TextAlign.Start
             //style = MaterialTheme.typography.button // Adjust font style as needed
         )
     }

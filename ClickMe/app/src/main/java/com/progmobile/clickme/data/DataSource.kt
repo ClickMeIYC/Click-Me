@@ -35,7 +35,7 @@ object DataSource {
 
     // Max number of levels to display
     const val LEVEL_NUMBERS = 21
-    const val STARTING_LEVEL = 20
+    const val STARTING_LEVEL = 0
     const val MUSIC_DEFAULT = true
     const val SOUND_DEFAULT = true
     const val HINT_TEXT_SIZE = 20f
@@ -84,7 +84,7 @@ object DataSource {
         Screens.DropDownMenu.name to { navController, modifier -> { DropDownMenu(/* idLevel = 6*/ Screens.Place10Finger.name, navController, modifier) } },
         Screens.Place10Finger.name to { navController, modifier -> { Place10Finger(7, Screens.ScrollToFindTheButton.name, navController, modifier) } },
         Screens.ScrollToFindTheButton.name to { navController, modifier -> { ScrollToFindTheButton(8, Screens.ButtonInHomepage.name, navController, modifier) } },
-        Screens.ButtonInHomepage.name to { navController, modifier -> { ButtonInHomepage(/* idLevel = 17*/ modifier) } },
+        Screens.ButtonInHomepage.name to { _, modifier -> { ButtonInHomepage(/* idLevel = 17*/ modifier) } },
         Screens.LightTorch.name to { navController, modifier -> { CustomTheme{LightTorch(10, Screens.Charging.name, navController, modifier)} } },
         Screens.Charging.name to { navController, modifier -> { Charging(11, Screens.ChangeLanguage.name, navController, modifier) } },
         Screens.ChangeLanguage.name to { navController, modifier -> { ChangeLanguage(12, Screens.DarkMode.name, navController, modifier) } },
@@ -92,7 +92,7 @@ object DataSource {
         Screens.MovingButton.name to { navController, modifier -> { MovingButton(14, Screens.Screenshot.name, navController, modifier) } },
         Screens.Screenshot.name to { navController, modifier -> { Screenshot(15, Screens.StepCountingLevel.name, navController, modifier) } },
         Screens.StepCountingLevel.name to { navController, modifier -> { StepCountingLevel(16, Screens.LostButton.name, navController, modifier) } },
-        Screens.LostButton.name to { navController, modifier -> { LostButton(/* idLevel = 9*/ modifier) } },
+        Screens.LostButton.name to { _, modifier -> { LostButton(/* idLevel = 9*/ modifier) } },
         //Screens.Microphone.name to { navController, modifier -> { Microphone(18, Screens.Labyrinth.name, navController, modifier) } },
         Screens.Labyrinth.name to { navController, modifier -> { Labyrinth(18, Screens.LightSensor.name, navController, modifier) } },
         Screens.LightSensor.name to { navController, modifier -> { LightSensor(19, Screens.ShutdownDevice.name, navController, modifier) } },
