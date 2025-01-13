@@ -87,7 +87,7 @@ fun LightSensor(
         )
 
         // Level button
-        if (lightLevel.value != null && lightLevel.value!! < 10) {
+        if (lightLevel.value != null && lightLevel.value!! < 5) {
             UnlockLevel(
                 labelResourceId = R.string.button,
                 level = idLevel,

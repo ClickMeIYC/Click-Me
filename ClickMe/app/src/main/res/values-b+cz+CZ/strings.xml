@@ -4,6 +4,9 @@
     <string name="permission_denied_msg">Alespoň jedna dovolená byla zamítnuta.\nATTENTION: Možná zjistíte, že nejste schopni dokončit určité úrovně, pro to přijměte všechna oprávnění. \nnmůžete přijmout oprávnění z nastavení.</string>
     <string name="settings">Parametr</string>
     <string name="cancel">Pokračovat</string>
+    <string name="reset_levels_title">Potvrďte resetování</string>
+    <string name="reset_levels_message">Opravdu chcete obnovit všechny úrovně?</string>
+    <string name="reset_levels_positive_button">Ano</string>
 
     // Levels title
     <string name="reset_levels_negative_button">Ne</string>
@@ -41,17 +44,21 @@
     <string name="hint_double_buttons_1">To. Je. Zřejmé.</string>
     <string name="hint_double_buttons_2">To je ještě jednodušší než to poslední.</string>
     <string name="hint_double_buttons_3">Potřebujete dva prsty</string>
+    <string name="hint_double_buttons_4">Současně klikněte na obě tlačítka</string>
     <string name="hint_orientation_1">Něco se nezdá správné</string>
     <string name="hint_orientation_2">Můžete si přečíst název?</string>
     <string name="hint_orientation_3">Možná, že když otočíte hlavu, bude to jednodušší</string>
+    <string name="hint_orientation_4">Ne, opravdu ne vaše hlava… Váš telefon…</string>
     <string name="hint_screenshot_1">Možná si musíte pamatovat tuto úroveň.</string>
     <string name="hint_screenshot_2">HJak byste se o to podělili se svými přáteli?</string>
     <string name="hint_screenshot_3">Obrázek se rovná tisíci slovech.</string>
+    <string name="hint_screenshot_4">Možná, že pořídit snímek obrazovky je odpověď, kterou hledáte</string>
     <string name="hint_light_torch_1">Je trochu tma, že?</string>
     <string name="hint_light_torch_2">Jednoduchý dotek vám může osvěttit cestu</string>
     <string name="hint_light_torch_3">Nic nevidíte: Zapněte světlo!</string>
     <string name="hint_charging_1">Jsem trochu unavený</string>
     <string name="hint_charging_2">Opravdu mi chybí energie</string>
+    <string name="hint_charging_3">Budeš mě nabíjet nebo co?</string>
     <string name="hint_microphone_1">Šeptám na polích a vyju v bouřích. Jdou za mnou, ale já nemám žádnou cestu. Kdo jsem?</string>
     <string name="hint_microphone_2">Poslouchejte "Barvy větru"</string>
     <string name="hint_microphone_3">Myslím, že vám chybí trpělivost</string>
@@ -59,25 +66,33 @@
     <string name="hint_drop_down_menu_2">Snažte se rozšířit své umělecké znalosti</string>
     <string name="hint_drop_down_menu_3">Nikdy jste neslyšeli o surrealismu? Jaká ostuda</string>
     <string name="hint_drop_down_menu_4">Vážně, žádný nápad? Musíte zvýšit svou hru. Zde je poslední stopa: René Magritte</string>
+    <string name="hint_drop_down_menu_5">"Ceci n\'est pas une pipe", "This is not a button", je to stejné, není to?</string>
     <string name="hint_lost_button_1">Kde to může být?</string>
     <string name="hint_lost_button_2">Téměř tam.</string>
     <string name="hint_dark_mode_1">Hledejte stín, abyste našli světlo, hledejte světlo, abyste našli stín</string>
     <string name="hint_dark_mode_2">Někdy se musíte ponořit do hlubin, abyste viděli světlo</string>
+    <string name="hint_dark_mode_3">V pořádku, změňte režim osvětlení telefonu</string>
     <string name="hint_airplane_mode_1">Hlavu v oblacích</string>
-    <string name="hint_airplane_mode_2">Je čas jít na dovolenou</string> 
+    <string name="hint_airplane_mode_2">Je čas jít na dovolenou</string>
+    <string name="hint_airplane_mode_3">Dovolená -> letadlo -> režim letadla, jednoduché ne?</string>
     <string name="hint_labyrinth_1">Je to labyrint… Prostě odsud vypadni!</string>
     <string name="hint_labyrinth_2">Představte si, že jde omramor.</string>
     <string name="hint_labyrinth_3">Co se stane smramorem, když nakloníte labyrint … ?</string>
     <string name="hint_moving_button_1">Je třeba se uklidnit</string>
+    <string name="hint_moving_button_2">Chovejte se jako otec 30.</string>
+    <string name="hint_moving_button_3">Dobrý knock out, to je to, co potřebuje</string>
     <string name="hint_change_language_1">Klikit warnon (ma c\'hellit)</string>
     <string name="hint_change_language_2">Klike sou mwen (si ou kapab)</string>
     <string name="hint_change_language_3">Egin klik nigan (ahal baduzu)</string>
     <string name="hint_change_language_4">Klicken Sie auf mich (wenn Sie können)</string>
     <string name="hint_change_language_5">Přejděte na Změna jazyka zařízení</string>
-    <string name="hint_step_counting_1">Udělej to, je to dobré pro tebe</string> 
+    <string name="hint_step_counting_1">Udělej to, je to dobré pro tebe</string>
+    <string name="hint_step_counting_2">A je to dobré pro planetu!</string>
+    <string name="hint_step_counting_3">Stačí jen pohnout zadkem a dostat nějaké cvičení</string>
     <string name="hint_light_sensor_1">Ve tmě vidíme hvězdy nejlépe</string>
     <string name="hint_light_sensor_2">Ve stínech se nejlépe schováme</string>
-    <string name="hint_light_sensor_3">Vypnete prosím světla?</string> 
+    <string name="hint_light_sensor_3">Vypnete prosím světla?</string>
+    <string name="hint_light_sensor_4">Nyní zakryjte světelný senzor telefonu a mělo by fungovat</string>
     <string name="hint_button_in_home_page_1">Rozhlédněte se po chvíli, možná to najdete.</string>
     <string name="hint_button_in_home_page_2">Pokud tu není, kde by to mohlo být?</string>
     <string name="hint_button_in_home_page_3">Chcete se vrátit na domovskou stránku nebo ne?!</string>
@@ -86,25 +101,19 @@
     <string name="hint_shutdown_device_3">Vypneš svůj zatracený telefon !</string>
     <string name="hint_place_ten_fingers_1">Zkuste počítat do 5</string>
     <string name="hint_place_ten_fingers_2">Vyvede dítě do vás</string>
+    <string name="hint_place_ten_fingers_3">Jeden prst za druhým, to je zřejmé</string>
     <string name="hint_wait_20_seconds_1">Jste opravdu netrpěliví, tak!</string>
     <string name="hint_wait_20_seconds_2">Zkuste meditaci</string>
     <string name="hint_wait_20_seconds_3">Budete čekat nebo ne?</string>
-    <string name="hint_scroll_to_find_the_button_1">Alenka v říši divů nikdy neviděla.</string>
+    <string name="hint_scroll_to_find_the_button_1">Alenka v říši divů nikdy neviděla.</string>
     <string name="hint_scroll_to_find_the_button_2">Jděte dolů na stránku!</string>
     // Buttons
     <string name="button">Tlačítko</string>
 
     //Warning Level 06
-    <string name="warning_level_light_torch">Zařízení nemá k dispozici správný nástroj. Tady je úroveň zdarma :)</string>
-    <string name="reset_levels_title">Potvrďte resetování</string>
-    <string name="reset_levels_message">Opravdu chcete obnovit všechny úrovně?</string>
-    <string name="reset_levels_positive_button">Ano</string>
-    <string name="hint_step_counting_2">A je to dobré pro planetu!</string>
-    <string name="hint_step_counting_3">Stačí jen pohnout zadkem a dostat nějaké cvičení</string>
-    <string name="hint_moving_button_2">Chovejte se jako otec 30.</string>
-    <string name="hint_moving_button_3">Dobrý knock out, to je to, co potřebuje</string>
-    <string name="hint_place_ten_fingers_3">Jeden prst za druhým, to je zřejmé</string>
+    <string name="warning_level_light_torch">Zařízení nemá k dispozici správný nástroj. Tady je úroveň zdarma :)</string>
+
+    // Home page indications
     <string name="home_page_explication_1">Vítejte v Click Me! V každé úrovni musíte najít tlačítko, postupně skrytější, využívající všechny možné funkce vašeho zařízení.</string>
     <string name="home_page_explication_2">V každé úrovni budete mít přístup k \"?\" jako tento, obsahující rady, obecně tři, postupně užitečnější.</string>
-    <string name="hint_charging_3">Budeš mě nabíjet nebo co?</string>
 </resources>

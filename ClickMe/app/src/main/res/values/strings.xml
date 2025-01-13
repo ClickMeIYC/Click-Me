@@ -1,5 +1,5 @@
 <resources>
-    // Ressources
+    // Resources
     <string name="app_name" translatable="false">Click Me</string>
     <string name="music_key" translatable="false">MusicKey</string>
     <string name="sound_key" translatable="false">SoundKey</string>
@@ -45,25 +45,29 @@
     // Hints
     <string name="no_hint_message">Sorry, no hint available</string>
     <string name="hint_simple_button_1">Seriously ?</string>
-    <string name="hint_simple_button_2">You\'ve got to be kidding me.</string>
+    <string name="hint_simple_button_2">You\'ve got to be kidding me</string>
     <string name="hint_simple_button_3">Read. The. Title.</string>
     <string name="hint_long_press_button_1">In a hurry aren\'t you ?</string>
-    <string name="hint_long_press_button_2">Arm yourself with patience.</string>
+    <string name="hint_long_press_button_2">Arm yourself with patience</string>
     <string name="hint_long_press_button_3">OK just press longer…</string>
     <string name="hint_double_buttons_1">That. Is. Obvious.</string>
-    <string name="hint_double_buttons_2">That\'s even easier than the last level.</string>
-    <string name="hint_double_buttons_3">You need two fingers.</string>
-    <string name="hint_orientation_1">Something doesn\'t seem right.</string>
+    <string name="hint_double_buttons_2">That\'s even easier than the last level</string>
+    <string name="hint_double_buttons_3">You need two fingers</string>
+    <string name="hint_double_buttons_4">Click on both button at the same time</string>
+    <string name="hint_orientation_1">Something doesn\'t seem right</string>
     <string name="hint_orientation_2">Can you read the title ?</string>
     <string name="hint_orientation_3">Maybe if you turn your head it\'ll be easier</string>
-    <string name="hint_screenshot_1">Maybe you need to remember this level.</string>
+    <string name="hint_orientation_4">Not really your head… Your phone…</string>
+    <string name="hint_screenshot_1">Maybe you need to remember this level</string>
     <string name="hint_screenshot_2">How would you share it with you\'re friends ?</string>
-    <string name="hint_screenshot_3">A picture equals a thousand words.</string>
+    <string name="hint_screenshot_3">A picture equals a thousand words</string>
+    <string name="hint_screenshot_4">Maybe taking a screenshot is the answer you seek</string>
     <string name="hint_light_torch_1">It\'s a little dark, isn\'t it ?</string>
     <string name="hint_light_torch_2">A simple touch can light your way</string>
     <string name="hint_light_torch_3">You don\'t see anything : turn on the light !</string>
     <string name="hint_charging_1">I\'m kind of tired</string>
     <string name="hint_charging_2">I really lack energy</string>
+    <string name="hint_charging_3">Are you going to charge me or what ?</string>
     <string name="hint_microphone_1">I whisper in the fields and howl in the storms. They follow me, but I have no path. Who am I?</string>
     <string name="hint_microphone_2">Give it everything you got</string>
     <string name="hint_microphone_3">Just blow in the fucking mic for god\'s sake !</string>
@@ -71,14 +75,17 @@
     <string name="hint_drop_down_menu_2">Try to expand your artistic knowledge</string>
     <string name="hint_drop_down_menu_3">Never heard of surrealism ? What a shame</string>
     <string name="hint_drop_down_menu_4">Really, no idea ? You need to step up your game. Fine, here\'s the last clue : René Magritte</string>
+    <string name="hint_drop_down_menu_5">"Ceci n\'est pas une pipe", "This is not a button", it\'s the same, isn\'t it ?</string>
     <string name="hint_lost_button_1">Where can it be ?</string>
-    <string name="hint_lost_button_2">Almost there.</string>
+    <string name="hint_lost_button_2">Almost there</string>
     <string name="hint_dark_mode_1">Seek the shadow to find the light, seek the light to find the shadow</string>
     <string name="hint_dark_mode_2">Sometimes you have to dive into the depths to see the light</string>
+    <string name="hint_dark_mode_3">Fine, change your phone light mode</string>
     <string name="hint_airplane_mode_1">Head in the clouds</string>
     <string name="hint_airplane_mode_2">It\'s time to go on a vacation</string>
+    <string name="hint_airplane_mode_3">Vacation -> Plane -> Plane mode, simple no ?</string>
     <string name="hint_labyrinth_1">It\'s a labyrinth… Just get out of there !</string>
-    <string name="hint_labyrinth_2">Imagine the point is a marble.</string>
+    <string name="hint_labyrinth_2">Imagine the point is a marble</string>
     <string name="hint_labyrinth_3">What happens to a marble when you tilt a labyrinth … ?</string>
     <string name="hint_moving_button_1">It needs to be calmed down</string>
     <string name="hint_moving_button_2">Act like a 30\'s dad</string>
@@ -94,7 +101,8 @@
     <string name="hint_light_sensor_1">It\'s in the dark that we see the stars best</string>
     <string name="hint_light_sensor_2">It\'s in the shadows that we hide best</string>
     <string name="hint_light_sensor_3">Will you turn off the lights please ?</string>
-    <string name="hint_button_in_home_page_1">Look around for a little while, maybe you\'ll find it.</string>
+    <string name="hint_light_sensor_4">Now, cover the light sensor of your phone and it should work</string>
+    <string name="hint_button_in_home_page_1">Look around for a little while, maybe you\'ll find it</string>
     <string name="hint_button_in_home_page_2">If it\'s not here, where could it be ?</string>
     <string name="hint_button_in_home_page_3">Are you going to go back to the homepage or not ?!</string>
     <string name="hint_shutdown_device_1">Try to cut all contact</string>
@@ -102,6 +110,7 @@
     <string name="hint_shutdown_device_3">Are you gonna turn off your phone !</string>
     <string name="hint_place_ten_fingers_1">Try counting to five</string>
     <string name="hint_place_ten_fingers_2">You\'re still a child</string>
+    <string name="hint_place_ten_fingers_3">One finger after another, it\'s obvious</string>
     <string name="hint_wait_20_seconds_1">You\'re a little impatient</string>
     <string name="hint_wait_20_seconds_2">Try meditation</string>
     <string name="hint_wait_20_seconds_3">Are you gonna wait or not ?</string>
@@ -115,8 +124,6 @@
     <string name="warning_level_light_torch">Your device doesn\'t have the correct tool available. Here\'s a level for free :)</string>
 
     // Home page indications
-    <string name="hint_place_ten_fingers_3">One finger after another, it\'s obvious</string>
     <string name="home_page_explication_1">Welcome to Click Me ! In each level you have to find a button, progressively more hidden, using every possible function of your device.</string>
     <string name="home_page_explication_2">In every level, you will have access to a \"?\" like this one, containing hints, generally three, progressively more helpful.</string>
-    <string name="hint_charging_3">Are you going to charge me or what ?</string>
 </resources>

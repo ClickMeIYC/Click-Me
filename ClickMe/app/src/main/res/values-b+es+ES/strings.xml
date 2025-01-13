@@ -4,6 +4,9 @@
     <string name="permission_denied_msg">Se ha denegado al menos un permiso.\nATTENTION: puede que no puedas completar ciertos niveles, por lo que deberás aceptar todos los permisos.\n\nVocía aceptar permisos desde la configuración.</string>
     <string name="settings">Configuración</string>
     <string name="cancel">Continuar</string>
+    <string name="reset_levels_title">Confirmar la reinicialización</string>
+    <string name="reset_levels_message">¿Estás seguro de que quieres restablecer?</string>
+    <string name="reset_levels_positive_button">Sí</string>
 
     // Levels title
     <string name="reset_levels_negative_button">No</string>
@@ -41,17 +44,21 @@
     <string name="hint_double_buttons_1">Eso es obvio.</string>
     <string name="hint_double_buttons_2">Esto es incluso más fácil que el nivel anterior.</string>
     <string name="hint_double_buttons_3">Dos dedos, necesitas dos dedos…</string>
+    <string name="hint_double_buttons_4">Haga clic en ambos botones al mismo tiempo</string>
     <string name="hint_orientation_1">Hay algo que no parece bien</string>
     <string name="hint_orientation_2">¿Que estas haciendo? lees el título !</string>
     <string name="hint_orientation_3">¿Qué pasaría si volvieras la cabeza? Tal vez sería más</string>
+    <string name="hint_orientation_4">No es realmente su cabeza… su teléfono…</string>
     <string name="hint_screenshot_1">Quizás necesites recordar este nivel</string>
     <string name="hint_screenshot_2"> ¿Cómo lo compartirías con tus amigos?</string>
     <string name="hint_screenshot_3">Una imagen equivale a mil palabras.</string>
+    <string name="hint_screenshot_4">Quizás tomar una captura de pantalla es la respuesta que buscas</string>
     <string name="hint_light_torch_1">¿Es un poco oscuro, no?</string>
     <string name="hint_light_torch_2">Con poco, puedes illuminar mucho</string>
     <string name="hint_light_torch_3">You don\'t see anything : turn on the light !</string>
     <string name="hint_charging_1">Estoy cansado</string>
     <string name="hint_charging_2">Realmente me falta energía</string>
+    <string name="hint_charging_3">¿Puedes cobrarme por favor?</string>
     <string name="hint_microphone_1">Realmente me falta el susurro en los campos y el aullido en las tormentas. Me siguen, pero no tengo camino. ¿Quién soy yo?</string>
     <string name="hint_microphone_2">Escucha los "colores en el viento"</string>
     <string name="hint_microphone_3">Creo que te falta paciencia</string>
@@ -59,25 +66,33 @@
     <string name="hint_drop_down_menu_2">Intenta ampliar tus conocimientos artísticos</string>
     <string name="hint_drop_down_menu_3">¿Nunca he oído hablar del surrealismo? Qué vergüenza</string>
     <string name="hint_drop_down_menu_4">¿Realmente, no tengo idea? Usted necesita para intensificar su juego. Bien, aquí está la última pista : René Magritte</string>
+    <string name="hint_drop_down_menu_5">"Ceci n\'est pas une pipe", "This is not a button", es lo mismo, ¿no?</string>
     <string name="hint_lost_button_1">¿Dónde puede estar?</string>
     <string name="hint_lost_button_2">Casi allí</string>
     <string name="hint_dark_mode_1">Buscar la sombra para encontrar la luz, buscar la luz para encontrar la sombra</string>
     <string name="hint_dark_mode_2">A veces tienes que sumergirte en las profundidades para ver la luz</string>
+    <string name="hint_dark_mode_3">Bien, cambiar el modo de luz del teléfono</string>
     <string name="hint_airplane_mode_1">Cabeza en las nubes</string>
     <string name="hint_airplane_mode_2">Es hora de irse de vacaciones</string>
+    <string name="hint_airplane_mode_3">Vacaciones -> Avión -> Modo de avión, simple no ?</string>
     <string name="hint_labyrinth_1">x</string>
     <string name="hint_labyrinth_2">x</string>
     <string name="hint_labyrinth_3">x</string>
     <string name="hint_moving_button_1">¡calmalo!</string>
+    <string name="hint_moving_button_2">Actúa como un papá de los 30</string>
+    <string name="hint_moving_button_3">¡Un buen torgnole es lo que necesita!</string>
     <string name="hint_change_language_1">Klikit warnon (ma c\'hellit)</string>
     <string name="hint_change_language_2">Klike sou mwen (si ou kapab)</string>
     <string name="hint_change_language_3">Egin klik nigan (ahal baduzu)</string>
     <string name="hint_change_language_4">Klicken Sie auf mich (wenn Sie können)</string>
     <string name="hint_change_language_5">Va cambiar el idioma de tu teléfono</string>
     <string name="hint_step_counting_1">Hazlo, es bueno para ti.</string>
+    <string name="hint_step_counting_2">¡Y es bueno para el planeta!</string>
+    <string name="hint_step_counting_3">Solo mueve tu trasero y haz algo de ejercicio.</string>
     <string name="hint_light_sensor_1">Es en la oscuridad donde mejor se ven las estrellas</string>
     <string name="hint_light_sensor_2">Es en la oscuridad que me escondo mejor</string>
     <string name="hint_light_sensor_3">Vas a apagar esas luces, ¿sí?</string>
+    <string name="hint_light_sensor_4">Ahora, cubrir el sensor de luz de su teléfono y debe funcionar</string>
     <string name="hint_button_in_home_page_1">Mira alrededor por un rato, tal vez lo encontrarás.</string>
     <string name="hint_button_in_home_page_2">Si no está aquí, ¿dónde podría estar?</string>
     <string name="hint_button_in_home_page_3">Look around for a little while, maybe you\'ll find it.</string>
@@ -86,6 +101,7 @@
     <string name="hint_shutdown_device_3">Vas a terminar apagando tu maldito teléfono sí!</string>
     <string name="hint_place_ten_fingers_1">Intenta contar hasta 5</string>
     <string name="hint_place_ten_fingers_2">Saca al niño que hay en ti</string>
+    <string name="hint_place_ten_fingers_3">Un dedo tras otro, es obvio</string>
     <string name="hint_wait_20_seconds_1">Eres muy impaciente!</string>
     <string name="hint_wait_20_seconds_2">Intenta la meditación</string>
     <string name="hint_wait_20_seconds_3">¿Vas a esperar o no ?</string>
@@ -97,15 +113,8 @@
 
     //Warning Level 06
     <string name="warning_level_light_torch">Su dispositivo no tiene la herramienta correcta disponible. Aquí hay un nivel gratis :)</string>
-    <string name="reset_levels_title">Confirmar la reinicialización</string>
-    <string name="reset_levels_message">¿Estás seguro de que quieres restablecer?</string>
-    <string name="reset_levels_positive_button">Sí</string>
-    <string name="hint_step_counting_2">¡Y es bueno para el planeta!</string>
-    <string name="hint_step_counting_3">Solo mueve tu trasero y haz algo de ejercicio.</string>
-    <string name="hint_moving_button_2">Actúa como un papá de los 30</string>
-    <string name="hint_moving_button_3">¡Un buen torgnole es lo que necesita!</string>
-    <string name="hint_place_ten_fingers_3">Un dedo tras otro, es obvio</string>
+
+    // Home page indications
     <string name="home_page_explication_1">¡Bienvenido a Click Me! En cada nivel tendrás que encontrar un botón, cada vez más escondido, utilizando todas las funciones posibles de tu dispositivo.</string>
     <string name="home_page_explication_2">En cada nivel tendrás acceso a un \"?\" como éste, que contiene pistas, generalmente tres, progresivamente más útiles.</string>
-    <string name="hint_charging_3">Você vai me cobrar ou o quê?</string>
 </resources>

@@ -122,17 +122,20 @@ object DataSource {
         Screens.DoubleButtons.name to listOf(
             R.string.hint_double_buttons_1,
             R.string.hint_double_buttons_2,
-            R.string.hint_double_buttons_3
+            R.string.hint_double_buttons_3,
+            R.string.hint_double_buttons_4
         ),
         Screens.Orientation.name to listOf(
             R.string.hint_orientation_1,
             R.string.hint_orientation_2,
-            R.string.hint_orientation_3
+            R.string.hint_orientation_3,
+            R.string.hint_orientation_4
         ),
         Screens.Screenshot.name to listOf(
             R.string.hint_screenshot_1,
             R.string.hint_screenshot_2,
-            R.string.hint_screenshot_3
+            R.string.hint_screenshot_3,
+            R.string.hint_screenshot_4
         ),
         Screens.LightTorch.name to listOf(
             R.string.hint_light_torch_1,
@@ -141,7 +144,8 @@ object DataSource {
         ),
         Screens.Charging.name to listOf(
             R.string.hint_charging_1,
-            R.string.hint_charging_2
+            R.string.hint_charging_2,
+            R.string.hint_charging_3,
         ),
         Screens.Microphone.name to listOf(
             R.string.hint_microphone_1,
@@ -152,28 +156,33 @@ object DataSource {
             R.string.hint_drop_down_menu_1,
             R.string.hint_drop_down_menu_2,
             R.string.hint_drop_down_menu_3,
-            R.string.hint_drop_down_menu_4
+            R.string.hint_drop_down_menu_4,
+            R.string.hint_drop_down_menu_5
         ),
         Screens.LostButton.name to listOf(
             R.string.hint_lost_button_1,
-            R.string.hint_lost_button_2
+            R.string.hint_lost_button_2,
         ),
         Screens.DarkMode.name to listOf(
             R.string.hint_dark_mode_1,
-            R.string.hint_dark_mode_2
+            R.string.hint_dark_mode_2,
+            R.string.hint_dark_mode_3
         ),
         Screens.AirplaneMode.name to listOf(
             R.string.hint_airplane_mode_1,
-            R.string.hint_airplane_mode_2
+            R.string.hint_airplane_mode_2,
+            R.string.hint_airplane_mode_3
         ),
         Screens.Labyrinth.name to listOf(
             R.string.hint_labyrinth_1,
             R.string.hint_labyrinth_2,
-            R.string.hint_labyrinth_3),
+            R.string.hint_labyrinth_3
+        ),
         Screens.MovingButton.name to listOf(
             R.string.hint_moving_button_1,
             R.string.hint_moving_button_2,
-            R.string.hint_moving_button_3),
+            R.string.hint_moving_button_3
+        ),
         Screens.ChangeLanguage.name to listOf(
             R.string.hint_change_language_1,
             R.string.hint_change_language_2,
@@ -189,23 +198,29 @@ object DataSource {
         Screens.LightSensor.name to listOf(
             R.string.hint_light_sensor_1,
             R.string.hint_light_sensor_2,
-            R.string.hint_light_sensor_3),
+            R.string.hint_light_sensor_3,
+            R.string.hint_light_sensor_4
+        ),
         Screens.ButtonInHomepage.name to listOf(
             R.string.hint_button_in_home_page_1,
             R.string.hint_button_in_home_page_2,
-            R.string.hint_button_in_home_page_3),
+            R.string.hint_button_in_home_page_3
+        ),
         Screens.ShutdownDevice.name to listOf(
             R.string.hint_shutdown_device_1,
             R.string.hint_shutdown_device_2,
-            R.string.hint_shutdown_device_3),
+            R.string.hint_shutdown_device_3
+        ),
         Screens.Place10Finger.name to listOf(
             R.string.hint_place_ten_fingers_1,
             R.string.hint_place_ten_fingers_2,
-            R.string.hint_place_ten_fingers_3),
+            R.string.hint_place_ten_fingers_3
+        ),
         Screens.Wait20s.name to listOf(
             R.string.hint_wait_20_seconds_1,
             R.string.hint_wait_20_seconds_2,
-            R.string.hint_wait_20_seconds_3),
+            R.string.hint_wait_20_seconds_3
+        ),
         Screens.ScrollToFindTheButton.name to listOf(
             R.string.hint_scroll_to_find_the_button_1,
             R.string.hint_scroll_to_find_the_button_2
