@@ -116,4 +116,5 @@
     // Home page indications
     <string name="home_page_explication_1">Vítejte v Click Me! V každé úrovni musíte najít tlačítko, postupně skrytější, využívající všechny možné funkce vašeho zařízení.</string>
     <string name="home_page_explication_2">V každé úrovni budete mít přístup k \"?\" jako tento, obsahující rady, obecně tři, postupně užitečnější.</string>
+    <string name="dropdownmenu_indication">"Odpověď "</string>
 </resources>

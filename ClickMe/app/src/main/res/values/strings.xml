@@ -126,4 +126,7 @@
     // Home page indications
     <string name="home_page_explication_1">Welcome to Click Me ! In each level you have to find a button, progressively more hidden, using every possible function of your device.</string>
     <string name="home_page_explication_2">In every level, you will have access to a \"?\" like this one, containing hints, generally three, progressively more helpful.</string>
+
+    //DropDownMenu Level indications
+    <string name="dropdownmenu_indication">Answer</string>
 </resources>

@@ -117,4 +117,5 @@
     // Home page indications
     <string name="home_page_explication_1">Bem-vindo ao Click Me! Em cada nível deve encontrar um botão, cada vez mais escondido, utilizando todas as funções possíveis do seu dispositivo.</string>
     <string name="home_page_explication_2">Em todos os níveis, terá acesso a um \"?\" como este, contendo dicas, geralmente três, progressivamente mais úteis.</string>
+    <string name="dropdownmenu_indication">Resposta</string>
 </resources>
